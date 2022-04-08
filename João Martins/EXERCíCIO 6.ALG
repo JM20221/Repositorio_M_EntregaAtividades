@@ -14,6 +14,6 @@ Inicio
    escreva("Informe a base: ")
    leia(base)
    
-   escreval("A area é: ", altura*base)
+   escreval("A area é: ", altura*base/2)
 
 Fimalgoritmo
