@@ -1,8 +1,8 @@
-Algoritmo "Exercício 6"
-// Disciplina  : [Linguagem e Lógica de Programação]
+Algoritmo "ExercÃ­cio 6"
+// Disciplina  : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Hiram Amaral
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : João Víctor Martins Moreira.
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : JoÃ£o VÃ­ctor Martins Moreira.
 // Data atual  : 08/04/2022
 Var
    altura, base: real
@@ -14,6 +14,6 @@ Inicio
    escreva("Informe a base: ")
    leia(base)
    
-   escreval("A area é: ", altura*base)
+   escreval("A area Ã©: ", altura*base/2)
 
 Fimalgoritmo
